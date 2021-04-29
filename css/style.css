@@ -1,0 +1,35 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	margin-bottom: 10px;
+}
+.box{
+	min-height: 100px;
+	background: red;
+}
+.box2{
+	min-height: 100px;
+	background: #b8e994;
+}
+.box3{
+	min-height: 100px;
+	background: #6a89cc;
+}
+.box4{
+	min-height: 100px;
+	background: #b71540;
+}
+.box5{
+	min-height: 100px;
+	background: #2e86de;
+}
+.box6{
+	min-height: 100px;
+	background: #ff9f43;
+}
+.box7{
+	min-height: 100px;
+	background: #fa983a;
+}

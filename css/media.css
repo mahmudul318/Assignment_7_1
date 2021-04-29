@@ -1,0 +1,126 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.box{
+		background: #1abc9c;
+	}
+	.box2{
+		background: #9b59b6;
+	}
+	.box3{
+		background: #34495e;
+	}
+	.box4{
+		background: #f39c12;
+	}
+	.box5{
+		background: #95a5a6;
+	}
+	.box6{
+		background: #2ecc71;
+	}
+	.box7{
+		background: #f39c12;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.box{
+		background: #cd84f1;
+	}
+	.box2{
+		background: #ffcccc;
+	}
+	.box3{
+		background: #ff4d4d;
+	}
+	.box4{
+		background: #ffaf40;
+	}
+	.box5{
+		background: #fffa65;
+	}
+	.box6{
+		background: #32ff7e;
+	}
+	.box7{
+		background: #7d5fff;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.box{
+		background: #ff3f34;
+	}
+	.box2{
+		background: #ffa801;
+	}
+	.box3{
+		background: #485460;
+	}
+	.box4{
+		background: #05c46b;
+	}
+	.box5{
+		background: #0fbcf9;
+	}
+	.box6{
+		background: #f53b57;
+	}
+	.box7{
+		background: #4bcffa;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.box{
+		background: #40407a;
+	}
+	.box2{
+		background: #ff5252;
+	}
+	.box3{
+		background: #33d9b2;
+	}
+	.box4{
+		background: #34ace0;
+	}
+	.box5{
+		background: #f7f1e3;
+	}
+	.box6{
+		background: #706fd3;
+	}
+}
+
+/*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.box{
+		background: #4b6584;
+	}
+	.box2{
+		background: #8854d0;
+	}
+	.box3{
+		background: #45aaf2;
+	}
+	.box4{
+		background: #fa8231;
+	}
+	.box5{
+		background: #0fb9b1;
+	}
+	.box6{
+		background: #f7b731;
+	}
+	.box7{
+		background: #fc5c65;
+	}
+}
+
+/*Extra Extra large devices (large desktops)*/
+@media (min-width: 1400px) {
+	
+}
